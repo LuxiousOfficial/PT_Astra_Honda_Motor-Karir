@@ -1,0 +1,11 @@
+.navigasi {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+}
+
+.form-pendaftaran h1 {
+    margin-top: 5.5rem;
+}
